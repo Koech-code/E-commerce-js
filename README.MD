@@ -1,13 +1,13 @@
 ## DANCO SOLUTIONS
 ## Create folder structure
- ### create root folder as we
- ### add frontend and backend folder
- ### create src folder in frontend
- ### create index.html in src 
- ### run `npm init` in frontend folder
- ### install live-server by `npm install live-server`
- ### add start command as live-server --verbose
- ### run `npm start` to serve your app on default browser
+ 1. create root folder as we
+ 2. add frontend and backend folder
+ 3. create src folder in frontend
+ 4. create index.html in src 
+ 5. run `npm init` in frontend folder
+ 6. install live-server by `npm install live-server`
+ 7. add start command as live-server --verbose
+ 8. run `npm start` to serve your app on default browser
 
 ## Design website
  1. create a file named styles.cc
